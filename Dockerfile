@@ -1,4 +1,4 @@
-# Author: Weiran Zhao
+# Author: Weiran ZHAO
 
 FROM quay.io/jupyter/minimal-notebook:2023-11-19
 
